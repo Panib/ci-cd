@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2. Как работает GitLab CI"
             }
+          },
+          {
+            "id": "9542c9efd5d8bd72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Что такое gitlab runner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Что такое gitlab runner"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Как работает GitLab CI.md",
+                "file": "3. Что такое gitlab runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2. Как работает GitLab CI"
+              "title": "Обратные ссылки для 3. Что такое gitlab runner"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Как работает GitLab CI.md",
+                "file": "3. Что такое gitlab runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 2. Как работает GitLab CI"
+              "title": "Исходящие ссылки из 3. Что такое gitlab runner"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Как работает GitLab CI.md",
+                "file": "3. Что такое gitlab runner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2. Как работает GitLab CI"
+              "title": "Структура 3. Что такое gitlab runner"
             }
           },
           {
@@ -209,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34a2644fc4c5deb7",
+  "active": "9542c9efd5d8bd72",
   "lastOpenFiles": [
-    "1. Что такое CI CD.md",
     "2. Как работает GitLab CI.md",
+    "3. Что такое gitlab runner.md",
+    "1. Что такое CI CD.md",
     "2. Как работает GitLab CI",
     "CI_CD_what",
     "Добро пожаловать.md"
