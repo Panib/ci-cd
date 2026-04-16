@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Что такое gitlab runner.md",
+                "file": "CI_CD_what/3. Что такое gitlab runner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "3. Что такое gitlab runner"
             }
+          },
+          {
+            "id": "ad4899b2bfea73ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work_space/1. GitLab и GitLab Runner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. GitLab и GitLab Runner"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,17 +199,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Что такое gitlab runner.md",
+                "file": "Work_space/1. GitLab и GitLab Runner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 3. Что такое gitlab runner"
+              "title": "Структура 1. GitLab и GitLab Runner"
             }
           },
           {
-            "id": "b038c3dcc988d1ec",
+            "id": "1f97602cfe95917e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -223,11 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9542c9efd5d8bd72",
+  "active": "29c4257cdd7beae2",
   "lastOpenFiles": [
-    "2. Как работает GitLab CI.md",
-    "3. Что такое gitlab runner.md",
-    "1. Что такое CI CD.md",
+    "Work_space/1. GitLab и GitLab Runner.md",
+    "CI_CD_what/3. Что такое gitlab runner.md",
+    "Work_space",
+    "CI_CD_what/2. Как работает GitLab CI.md",
+    "CI_CD_what/1. Что такое CI CD.md",
     "2. Как работает GitLab CI",
     "CI_CD_what",
     "Добро пожаловать.md"
